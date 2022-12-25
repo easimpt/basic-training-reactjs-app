@@ -18,7 +18,7 @@ function Post() {
                 {params.postId == 2 && <span> <br /> AMAZING ID IS TWO</span>}
             </div>
 
- 
+
 
             <button onClick={()=>{
                 navigate(-1)
