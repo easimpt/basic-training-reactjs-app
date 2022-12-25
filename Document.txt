@@ -1,0 +1,6 @@
+1. go to root -> folder (cd ..) or cd /folder
+2. git status -> (red files)
+3. git add . -> meaning mo change ang files color to green
+4. git commit -m "explain ang code purpose sa changes" -> explaination sa commit
+5. git push -> ma push ang code sa github para makita sa other users
+6. git status -> dapat wala nay files clean nsya
